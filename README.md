@@ -1,5 +1,5 @@
 # python_framework
-HTML, CSS, JavaScript, Flask, Bootstrap and so on.
+HTML, CSS, JavaScript, Flask, Bootstrap, SQL and so on.
 
 Learning Projects Repository
 This repository is a collection of my work created while learning various web development and programming technologies. It includes projects and experiments using Python (Flask), HTML, CSS, JavaScript, Bootstrap, and more. Each folder contains a different project or exercise that demonstrates a specific concept or skill I've practiced.
